@@ -1,0 +1,38 @@
+body	{
+			font-family: Verdana, Geneva, sans-serif;
+			color: #000000;
+			background-color: #A80000;
+			text-align: justify;
+			}
+				
+p		{
+		line-height: 150%;
+		letter-spacing: 0.08em;
+		text-align: justify;	
+		font-weight: 800;
+		text-align: justify;
+		}
+			
+h1,h2	{
+			font-family: Verdana, Geneva, sans-serif;
+			color: #000000;
+			background-color: #FF0000;
+			letter-spacing: 0.1em;
+			padding: 2em 2em;
+		
+			/* CSS 3 */
+			box-shadow: 10px 10px 5px #282828 ;
+			}
+
+ul		{
+		text-indent: .5em;
+		font-family: Verdana, Geneva, sans-serif;
+		color: #280000 ;
+		font-weight: 800;
+		list-style-image: url(dualshock_3_small1.jpg);
+		list-style-position: inside;
+		}
+		
+img	{
+		border: solid #000000;
+		}

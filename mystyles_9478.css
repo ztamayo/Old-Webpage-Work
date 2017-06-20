@@ -1,0 +1,24 @@
+
+
+	body	{
+				font-family: Verdana, Geneva, sans-serif;
+				color: #CCCCCC;
+				background-color: #FF0000;
+				}
+				
+	h1	{
+			font-family: Verdana, Geneva, sans-serif;
+			color: #000000;
+			background-color: #FF0000;
+			border:  thick dashed #000000; 
+			letter-spacing: 0.1em;
+			padding: 2em 2em;
+			}
+	
+	p		{
+			line-height: 150%;
+			letter-spacing: 0.08em;
+			border:  thin solid #CCCCCC;
+			text-align: justify;	
+			}
+			
